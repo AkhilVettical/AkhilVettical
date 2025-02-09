@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AkhilVettical
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning css and javascript
-- 💞️ I’m looking to collaborate on front end development
+- 👀 I’m interested in Full Stack Web Development
+- 🌱 I’m currently building projects leveraging AI models.
+- 💞️ I’m looking to collaborate on Full Stack Web development
 - 📫 How to reach me ...
 
 <!---
